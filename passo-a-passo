@@ -1,2 +1,16 @@
 1º passo: baixar o SDK do site oficial do Flutter.dev
 2º passo: 
+
+Peço desculpas pela resposta anterior imprecisa. De fato, Flutter pode ser usado para desenvolver microserviços, embora não seja a abordagem mais comum e não seja a principal finalidade da tecnologia.
+
+Dart é uma linguagem de programação completa e pode ser usada para desenvolver uma variedade de aplicativos, incluindo microserviços. De fato, há muitos pacotes e bibliotecas disponíveis para Dart que ajudam a desenvolver aplicativos web e serviços backend.
+
+No caso específico de Flutter, embora seja projetado principalmente para o desenvolvimento de aplicativos móveis, também pode ser usado para desenvolver aplicativos web e, portanto, pode ser usado para desenvolver microserviços.
+
+Existem pacotes disponíveis no pub.dev para Flutter e Dart que permitem criar servidores HTTP, roteadores, gerenciar bancos de dados, entre outras tarefas comuns em desenvolvimento de microserviços. Alguns exemplos de pacotes relevantes incluem:
+
+shelf: um pacote para construir aplicativos da web e serviços em Dart.
+aqueduct: um pacote que fornece uma estrutura completa para construir aplicativos web e serviços RESTful.
+angel: um pacote que permite criar APIs RESTful e outros aplicativos web em Dart.
+grpc: um pacote que permite desenvolver serviços de comunicação de dados entre diferentes aplicativos.
+É importante lembrar que o desenvolvimento de microserviços é um tópico complexo e envolve muitos aspectos, como arquitetura, segurança, escalabilidade e gerenciamento de dados. Portanto, é altamente recomendável seguir as melhores práticas de desenvolvimento de microserviços e usar pacotes e bibliotecas comprovados e confiáveis.
