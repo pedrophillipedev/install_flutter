@@ -14,3 +14,16 @@ aqueduct: um pacote que fornece uma estrutura completa para construir aplicativo
 angel: um pacote que permite criar APIs RESTful e outros aplicativos web em Dart.
 grpc: um pacote que permite desenvolver serviços de comunicação de dados entre diferentes aplicativos.
 É importante lembrar que o desenvolvimento de microserviços é um tópico complexo e envolve muitos aspectos, como arquitetura, segurança, escalabilidade e gerenciamento de dados. Portanto, é altamente recomendável seguir as melhores práticas de desenvolvimento de microserviços e usar pacotes e bibliotecas comprovados e confiáveis.
+
+
+Não há problema, obrigado pela compreensão!
+
+Para trabalhar com mensageria em microserviços Flutter, há vários pacotes e bibliotecas disponíveis que podem ser úteis. Alguns dos pacotes mais populares incluem:
+
+rabbitmq_client: um pacote que permite se conectar a um servidor RabbitMQ e consumir mensagens.
+flutter_amqp: um pacote que fornece uma interface de programação para trabalhar com mensageria em AMQP usando Flutter.
+grpc: um pacote que permite a comunicação entre diferentes aplicativos e serviços usando gRPC, que é um protocolo de chamada de procedimento remoto (RPC) de alto desempenho.
+dart-event-bus: um pacote que fornece um mecanismo para enviar e receber eventos dentro do aplicativo.
+No entanto, é importante lembrar que a escolha dos pacotes certos depende do caso de uso específico e das necessidades do projeto. Além disso, o desenvolvimento de microserviços geralmente envolve muitos aspectos, como escalabilidade, resiliência, gerenciamento de erros, segurança e muito mais. Portanto, é recomendável seguir as melhores práticas de desenvolvimento de microserviços e usar pacotes e bibliotecas comprovados e confiáveis.
+
+Dialogo acima, são do ChatGPT
